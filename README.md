@@ -13,12 +13,12 @@ To get started, you can conveniently install the executable file from our [GitHu
 
 ### Setting up the Environment
 
-1. Navigate to the Windows icon and click on "Edit the system environment variables".
-2. In the System Properties window, click on the "Environment Variables" button.
-3. Under "System Variables", locate the "Path" variable and click on the "Edit" button.
-4. Click the "New" button and paste the folder path where the executable file is located.
+1. Navigate to the Windows icon and click on `Edit the system environment variables`.
+2. In the System Properties window, click on the `Environment Variables` button.
+3. Under `System Variables`, locate the `Path` variable and click on the `Edit` button.
+4. Click the `New` button and paste the folder path where the executable file is located.
 5. Close all currently opened terminal or command prompt windows and reopen them.
-6. Type "counter" in your command line to run the program.
+6. Type `counter` in your command line to run the program.
 
 ## Code Overview
 
