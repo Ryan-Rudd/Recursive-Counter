@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console  "D:/Desktop/Recursive-Counter/counter.py"
